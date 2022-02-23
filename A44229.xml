@@ -1,0 +1,1031 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The free and voluntary confession and narrative of James Holloway addressed to His Majesty written with his own hand, and delivered by himself to Mr. Secretary Jenkins ; as also the proceedings against the said James Holloway in His Majesties King-Bench Court, Westminster, and his petition to His Majesty ; together with a particular account of the discourse as passed between the sheriffs of London and the said James Holloway at the time of his execution for high-treason at Tyburn, April 30. 1684 ; with his prayer immediately before, and the true copy of the paper delivered them at the same time and place.</title>
+            <author>Holloway, James, d. 1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44229</idno>
+            <idno type="STC">Wing H2509</idno>
+            <idno type="STC">ESTC R2717</idno>
+            <idno type="EEBO-CITATION">11782001</idno>
+            <idno type="OCLC">ocm 11782001</idno>
+            <idno type="VID">49127</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49127)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 534:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The free and voluntary confession and narrative of James Holloway addressed to His Majesty written with his own hand, and delivered by himself to Mr. Secretary Jenkins ; as also the proceedings against the said James Holloway in His Majesties King-Bench Court, Westminster, and his petition to His Majesty ; together with a particular account of the discourse as passed between the sheriffs of London and the said James Holloway at the time of his execution for high-treason at Tyburn, April 30. 1684 ; with his prayer immediately before, and the true copy of the paper delivered them at the same time and place.</title>
+                  <author>Holloway, James, d. 1684.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Horn, John Baker, and John Redmayne,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1684].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holloway, James, d. 1684.</term>
+               <term>Rye House Plot, 1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="documents">
+            <pb facs="tcp:49127:1" rendition="simple:additions"/>
+            <head>The Free and Voluntary <hi>Confeſſion and Narrative</hi> OF JAMES HOLLOWAY (Addreſſed to His Majeſty) Written with his own hand, and Delivered by himſelf TO Mr. SECRETARY <hi>JENKINS;</hi> AS ALSO The Proceedings againſt the ſaid <hi>James Holloway</hi> in His Majeſties KINGS-BENCH COURT, <hi>Weſtminſter;</hi> And his Petition to His Majeſty.</head>
+            <head type="sub">TOGETHER With a particular Account of the Diſcourſe as paſſed between the Sheriffs of <hi>London</hi> and the ſaid <hi>James Holloway</hi> at the time of his Exe<g ref="char:EOLhyphen"/>cution for High-Treaſon at <hi>Tyburn, April</hi> 30. 1684. With his Prayer immediately before, and the true Copy of the Paper De<g ref="char:EOLhyphen"/>livered them at the ſame Time and Place.</head>
+            <div type="confession">
+               <head>The Confeſsion or Narrative.</head>
+               <opener>
+                  <salute>Great SIR,</salute>
+               </opener>
+               <p>I Your Majeſties moſt humble, but too much <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lled, and diſobedient Subject do here moſt faithfully, according to the beſt of my Remembrance, give you an Account of what I knew concerning the late diſcovered Conſpiracy, how I came to be concerned, how far I was concerned; how it was to have been carried on in <hi>Briſtol;</hi> why I did not come in at the firſt Diſco<g ref="char:EOLhyphen"/>very, and caſt my ſelf at your Majeſties Feet for Mercy; how I made my eſcape, and whore I was till taken. If I ſhall thro forgetfulneſs omit any thing that it may be thought I am privie to, I ſhall be ready and willing truly to anſwer any queſtion that ſhall be asked by your Majeſty, or any your moſt Honorable Privy-Council, no way deſpairing of your Majeſties Mercy, but re<g ref="char:EOLhyphen"/>main in hopes, that that Fountain of Mer<g ref="char:EOLhyphen"/>cy which hath ſo abundantly flowed from your Sacred Breaſt ever ſince your happy
+<pb n="2" facs="tcp:49127:2" rendition="simple:additions"/>Reſtauration is not yet dry, and that there is ſome drops left for me, who doubt not but to Serve your Majeſty both at home and a<g ref="char:EOLhyphen"/>broad, much more Living than my Death will.</p>
+               <p>That which I have cauſe to impute the occaſion of my being Concerned, was my too Publick Spirit, preferring your Majeſties and my Countries Intereſt much before my own, but eſpecially in attending the two laſt Parliaments, promoting an Act, for the en<g ref="char:EOLhyphen"/>couragement of the <hi>Linnen Manufacture,</hi> and the preventing of Frauds in your Majeſties Cuſtomes, &amp;c. which would have brought in, and ſaved to your Majeſty near 200000 <hi>l. per An.</hi> and employed many thouſands of Poor, &amp;c. as is well known to many Wor<g ref="char:EOLhyphen"/>thy Perſons about your Court, and indeed proved my Ruino, otherwiſe than in this Concern by bringing me into too great Ac<g ref="char:EOLhyphen"/>quaintance for one of my Capacity, and by that to be concerned as I was. My At<g ref="char:EOLhyphen"/>tendance on thoſe two Parliaments I doubt have been miſ-repreſented.</p>
+               <div type="part">
+                  <head>How far I was Concerned.</head>
+                  <p>After the Diſſolution of the two laſt Par<g ref="char:EOLhyphen"/>liaments, I obſerved a great diſſatisfaction in People in moſt parts whore I travelled, but heard nothing of any Deſign till <hi>July</hi> 1682. when one Mr. <hi>Joſeph Tyly</hi> of <hi>Briſtol</hi> came from <hi>London;</hi> I meeting with him, asked what News, he anſwered to this ef<g ref="char:EOLhyphen"/>fect, all bad, and if ſome ſpeedy courſe be not taken we ſhall be all undone, for by their Arbitrary, Illegal ways and by force of Arms they have got Sheriffs to their minds, Witneſſes they had before, but want<g ref="char:EOLhyphen"/>ed Jurors to believe them, now they have got Sheriffs, naming Mr. <hi>North</hi> and Mr. <hi>Rich,</hi> who will find Jurors to believe any Evi<g ref="char:EOLhyphen"/>dence againſt a Proteſtant, and ſo hang up all the Kings Friends by degrees; I then told him that I thought it was impoſſible ſuch things could be done, but the King muſt hear of it; no ſaid he, there's none ſuffered to come near the King, but thoſe who have been declared Enemies to the King and Kingdom by Parliament, naming ſome that were mentioned in the Printed Votes, who to ſave themſelves do indeavor to keep all ſuch things from the Kings knowledge, and perſwade him againſt Parliaments, with much more ſuch-like diſcourſe, by which I found the ſame was diſcourſed throughout <hi>England, Scotland,</hi> and <hi>Ireland</hi> as a means to engage People. At length he told me that the Proteſtant Gentry, naming the Earl of <hi>Shaftsbury,</hi> Lord <hi>Howard</hi> of <hi>Eſtrick</hi> and others were come to a Reſolution, ſeeing fair means would not do, but all things on the Proteſtants ſide are miſrepreſented to the King by ſuch great Criminals, and none more in favor than thoſe, to take the King from his Evil Council, and that by an Inſur<g ref="char:EOLhyphen"/>rection in ſeveral parts of <hi>England</hi> at once, <hi>viz. London, Briſtol, Taunton, Exeter, Cheſter, New Caſtle, York,</hi> and ſome other places in the <hi>North,</hi> and that there would be a conſidera<g ref="char:EOLhyphen"/>ble party ready in <hi>Scotland,</hi> and another in <hi>Ireland,</hi> therefore ſaid he, we muſt conſider how to manage affairs in <hi>Briſtol,</hi> for if they proceed at <hi>Michaelmas</hi> in chooſing Lord-Mayor as they did Sheriffs, and to ſwearing of <hi>North</hi> and <hi>Rich,</hi> it muſt begin in <hi>October</hi> or <hi>November,</hi> otherwiſe there will be ſome Sham-Plot contrived to take off moſt of the Stirring Men in the laſt Parliaments; with much other' Diſcourſe to the ſame effect, adding, that Mr. <hi>Wade</hi> would come down very ſuddenly, by whom we might expect a full Account of all. About the end of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> as near as I can remember, Mr. <hi>Wade</hi> came down, who confirmed what Mr. <hi>Ty<g ref="char:EOLhyphen"/>ly</hi> had ſaid, but could ſay little as to any far<g ref="char:EOLhyphen"/>ther Reſolution they were come to above, either of any Time or Method agreed up<g ref="char:EOLhyphen"/>on, but that the Deſign went on. and men were imployed in all parts to try how peo<g ref="char:EOLhyphen"/>ple were inclined, who found enough ready and that there would be no want of Men, if it was once begun. Then we conſidered how it might be managed in <hi>Briſtol,</hi> and what number of men might be needful for the firſt Onſet; towards which he ſaid, We might depend on 150. men from <hi>Taunton</hi> or thereabouts, and concluded that 350. might be ſufficient to ſecure it without the Bloodſhed of one man, it being our Deſign to ſhed no Blood if poſſible, but this we re<g ref="char:EOLhyphen"/>ſolved not to acquaint any of our Friends with it, till the day and method was reſol<g ref="char:EOLhyphen"/>ved, of which he ſaid we ſhould have ten or fourteen days notice; and having ſoon conſidered of a Method, waited in expe<g ref="char:EOLhyphen"/>ctation of further advice, but none came till <hi>November;</hi> then we heard that ſome diſ<g ref="char:EOLhyphen"/>appointment happening they were forced to delay it, tho there was more and more cauſe for it. The end of <hi>December</hi> or be<g ref="char:EOLhyphen"/>ginning of <hi>January</hi> had advice that it was deferred to the beginning of <hi>March.</hi> The third of <hi>March</hi> I came to <hi>London,</hi> and meeting with Mr. <hi>Wade,</hi> asked him how things went, who anſwered that he could not tell what to make of it, for he could find nothing done, more than was nine Months before. The great Perſons who were the Managers, having done nothing but talkt of things. But now there was ſome others appointed to manage it, who were men of Buſineſs, naming them to me,
+<pb n="3" facs="tcp:49127:2"/>
+                     <hi>viz.</hi> The Earl of <hi>Eſſex,</hi> the Lord <hi>Howard</hi> of <hi>Eſtrick,</hi> the Lord <hi>Grey,</hi> the Lord <hi>Ruſſel,</hi> Coll. <hi>Sidney,</hi> Major <hi>Wildman,</hi> Mr. <hi>Hamp<g ref="char:EOLhyphen"/>den</hi> the younger, and Mr. <hi>Charlton,</hi> who he did ſuppoſe would make ſomething of it, and not do as the others had done, make a years talk to enſnare many thouſands of people to no purpoſe; for theſe had already ſent Meſſengers into <hi>Scotland</hi> and <hi>Ireland,</hi> to know their minds, naming one <hi>Aaron Smith</hi> ſent into <hi>Scotland,</hi> and at the return of the Meſſengers would come to a reſolu<g ref="char:EOLhyphen"/>tion as to time and method, but he was confident they could not be ready before <hi>Midſomer</hi> by reaſon they had done ſo little in order to it. Mr. <hi>Wade</hi> was then deſign'd into the <hi>Weſt</hi> upon the Earl of <hi>Stamford</hi>'s buſineſs, and ſaid if he could underſtand any thing more before he left <hi>London</hi> he would take <hi>Briſtol</hi> in his way and ac<g ref="char:EOLhyphen"/>quaint us with it. This Journey he brought me to Coll. <hi>Rumſey</hi> with whom we had lit<g ref="char:EOLhyphen"/>tle diſcourſe, he being going forth with his Lady. The ſixth of <hi>March</hi> I left <hi>London,</hi> and went directly for <hi>Briſtol;</hi> about the twelfth of <hi>March</hi> Mr. <hi>Wade</hi> came to <hi>Briſtol,</hi> but then could ſay no more than as above, the Meſſengers being not come back from <hi>Scotland</hi> nor <hi>Ireland</hi> and was of his former opinion, that if any thing were done, it could not be before <hi>Midſomer,</hi> he then ex<g ref="char:EOLhyphen"/>pected to be about two Months in the <hi>Weſt,</hi> and ſaid that if any thing was agreed upon ſooner, one Mr. <hi>Weſt</hi> a Councellor had promiſed to write to him in the name of <hi>Ingleſtone,</hi> and direct his Letter to be left at his Brothers in <hi>Briſtol,</hi> who <hi>Wade</hi> ordered that if any ſuch Letter came, to open it, and if any thing material in it, to ſend it by a Meſſenger to him into the <hi>Weſt.</hi> About the 17th. of <hi>March</hi> came a Letter for him from <hi>Weſt</hi> in the name of <hi>Ingleſtone,</hi> which his Brother opened, and not underſtanding the Stile, brought it to me, but I knew not the meaning thereof. The Contents was to deſire Mr. <hi>Wade</hi> to get his Clients to<g ref="char:EOLhyphen"/>gether the next <hi>Saturday</hi> come Fortnight, for that was the day appointed to Seal the Writings, and neither of us underſtanding it, his Brother ſent it by a Meſſenger after him, who found him at <hi>Taunton,</hi> and his Anſwer by the Meſſenger was, that he knew not the meaning of it, but ſhould be within ten miles of <hi>Briſtol</hi> the next Saturday, deſiring that if any other Letter came, to ſend it to him. About three days after came another Letter as above, de<g ref="char:EOLhyphen"/>ſiring him not to call his Clients together, for the time of Sealing was put off, which Letter was alſo ſent to him, but he under<g ref="char:EOLhyphen"/>ſtood it not, ſaying, it was ſome raſh buſi<g ref="char:EOLhyphen"/>neſs or other and ſo went back again.</p>
+                  <p>The fifth of <hi>April</hi> I came to <hi>London,</hi> and that evening went to Mr. <hi>Weſt</hi>'s Chamber in the <hi>Temple,</hi> where I found him, who then did not know me, but when I told him my Name, from whence I came, and mention<g ref="char:EOLhyphen"/>ed the two Letters Mr. <hi>Wade</hi> received from him, he began to be ſomewhat free in Diſ<g ref="char:EOLhyphen"/>courſe with me. I then told him that Mr. <hi>Wade</hi> and his friends were ſurpriſed at the Letters, not knowing what he meant by them, and did deſire to know, concerning which he ſeemed a little ſhy, but after little Diſcourſe, began to tell me, ſaying, there was a Deſign to take off the King and Duke coming from <hi>New-Market,</hi> which they ex<g ref="char:EOLhyphen"/>pected would have been that <hi>Saturday</hi> menti<g ref="char:EOLhyphen"/>oned in his Letter, had not the Fire happen<g ref="char:EOLhyphen"/>ed, which cauſed them to come ſooner; nay, ſaid he, had we known they would have ſtayed ſo long as they did, their buſineſs ſhould have been done: I then asked him what he meant by deſiring Mr. <hi>Wade</hi> to get his Clients together by that day, and what he could propoſe they ſhould have done, to which he could ſay little, only that they might be ready. I then told him, that I thought it a very raſh thing, and that few in <hi>England</hi> would approve of it, that I was ſure none a<g ref="char:EOLhyphen"/>bout us would, being a moſt Cowardly diſ<g ref="char:EOLhyphen"/>honourable Action, beſides the baſeſt ſin of Murther; then, ſaid he, what is deſigned by the General Deſign but to take them both off, and if it had been done that way, it would have prevented a great deal of Bloodſhed in the Nation; no, ſaid I, no ſuch thing is deſign<g ref="char:EOLhyphen"/>ed as I know of, the General Deſign being only to get the King off from his evil Coun<g ref="char:EOLhyphen"/>ſels, who had adviſed him to put a ſtop to Proceedings againſt Popiſh Plotters by Diſ<g ref="char:EOLhyphen"/>ſolving of Parliaments, <hi>&amp;c.</hi> and to bring all Popiſh Offenders to Juſtice, and ſuch who had betrayed the Liberty of the Subject; and this I think was all the Diſcourſe we had at that time, being the firſt of my Acquain<g ref="char:EOLhyphen"/>tance with him: that Night I went with him to a Tavern in <hi>Fleetſtreet,</hi> where was Cap<g ref="char:EOLhyphen"/>tain <hi>Norton, Richard Goodenough,</hi> and one Mr. <hi>Aylif,</hi> who, to my knowledg, I never ſaw before nor ſince; whileſt I was with them there was no Diſcourſe of any buſi<g ref="char:EOLhyphen"/>neſs, but I ſoon left them together. The next day Mr. <hi>Roe</hi> of <hi>Briſtol,</hi> brought me to Mr. <hi>Ferguſon,</hi> at the Houſe of one Mr. <hi>Bourne</hi> a Brewer, but was not admitted to ſee him himſelf, <hi>Ferguſon</hi> then went by the Name of <hi>Roberts,</hi> who when I had told my Name and from whence I came, was pretty free in Diſcourſe with me, and told me the Deſign
+<pb n="4" facs="tcp:49127:3"/>went on very well, that there were ſome <hi>Scottiſh</hi> Gentlemen come up, who were trea<g ref="char:EOLhyphen"/>ting with the Managers, and did hope they would agree in few days, and come to a re<g ref="char:EOLhyphen"/>ſolution both as to time and method, of which we ſhould have timely notice, but by all his Diſcourſe at that time, I could not perceive that he knew any thing of the <hi>New-Market</hi> Deſign.</p>
+                  <p>That day I had ſome Diſcourſe with Col<g ref="char:EOLhyphen"/>lonel <hi>Rumſey</hi> at his Houſe, who I found was privy to the <hi>New-Market</hi> buſineſs, and his Opinion was, that the General Deſign would come to nothing, for he did not approve of the Managers Actings, and ſaid there was nothing like the other Deſign, for that would put an end to all in a little time, then I told him, that I thought none in our Parts would be for it; which I think was all the Diſcourſe we then had; only he promiſed, that if any thing was agreed before Mr. <hi>Wade</hi> came up I ſhould hear of it, ſo I took leave and went for <hi>Briſtol</hi> the next morning. About ten days after, hearing nothing from them (<hi>Fergu<g ref="char:EOLhyphen"/>ſon</hi> having told me that he thought all would be agreed in four or five days, and promi<g ref="char:EOLhyphen"/>ſed to adviſe) I wrote to Mr. <hi>Weſt,</hi> deſiring to know how they went on, who wrote me, that they ſtill met with delays, and were come to no Concluſion; after that, I heard no more 'till <hi>May.</hi> About the beginning of <hi>May</hi> I came up to <hi>London</hi> again, in Compa<g ref="char:EOLhyphen"/>ny with Mr. <hi>Wade</hi> and ſome other <hi>Briſtol</hi> men, but when we came up, my buſineſs being in the City, and theirs about the <hi>Tem<g ref="char:EOLhyphen"/>ple,</hi> we parted; after two or three days, I met with Mr. <hi>Wade,</hi> and asked how he found things, who told me, he doubted all would prove a Sham, for he thought there was no<g ref="char:EOLhyphen"/>thing intended, finding nothing materially done in order to what had been ſo long diſ<g ref="char:EOLhyphen"/>courſed. Then we went to Mr. <hi>Weſt,</hi> and diſcourſed him fully about the Contents of his Letters, who told us, they were reſolved to kill the King and Duke as they came from <hi>New-Market,</hi> in order to which, he had pro<g ref="char:EOLhyphen"/>vided Arms for fifty men, Piſtols, Carbines and Blunderbuſſes, and that they were pro<g ref="char:EOLhyphen"/>miſed the Houſe of one <hi>Rumbald</hi> a Maltſter, which lay in the Road, and the King muſt come by his Door, there the men ſhould have been Lodged. Then we asked who was to have acted it, to which he could give but a ſlender Anſwer, and could or would name but two men, who were <hi>Rumbald</hi> and his, Brother, ſaying, if they could have rai<g ref="char:EOLhyphen"/>ſed ſix or eight hundred pounds to have bought Horſes, and ſomething to encourage men, they ſhould have had men enough; ſo that we found they had few men, if more than two, and no Horſes, only a parcel of Arms, which afterwards he ſhewed us at a Gun-ſmiths Houſe in a little Lane near <hi>Temple-Bar.</hi> Then we asked him what they deſigned if it had taken effect, to which he anſwered, that the men ſhould have come up with all ſpeed to <hi>London</hi> and diſperſed themſelves immediately, declaring for the Duke of <hi>Monmouth,</hi> and that the King and Duke being dead, no oppoſition could be made; then we asked who were for this De<g ref="char:EOLhyphen"/>ſign, he named Collonel <hi>Rumſy</hi> and <hi>Richard Goodenough,</hi> and, as far as I can remember, no more; ſo we found it was carried on by them contrary to the knowledg or appro<g ref="char:EOLhyphen"/>bation of thoſe who managed the General Deſign: then we declared our great diſlike of it, telling him, it was a baſe Diſhonou<g ref="char:EOLhyphen"/>rable and Cowardly Action, and would ſeem odious to all the World, that any pretend<g ref="char:EOLhyphen"/>ing themſelves Proteſtants, ſhould be con<g ref="char:EOLhyphen"/>cerned in ſuch a Bloody Action, and that we thought it was his Cowardize put him upon it, to which he ſaid, that he could not Fight, but would be as forward with his Mo<g ref="char:EOLhyphen"/>ny as any one of his Capacity. Then we went to Collonel <hi>Rumſy,</hi> who we found to be wholly of <hi>Weſt</hi>'s Opinion, ſaying, that except ſomething be done that way, I know nothing will be done at all, for he knew the other Managers would do nothing; ſo we had little Diſcourſe at that time. After this we went to <hi>Ferguſon,</hi> who told us how things ſtood; we then found that he knew of both Deſigns, but was only for the Inſurrection, and told us, that the Managers had been Treating with ſome <hi>Scotch</hi> Gentlemen; that they were almoſt agreed, and that the Mo<g ref="char:EOLhyphen"/>ny they were to be ſupplied with, would be ready in three or four days, being ten thou<g ref="char:EOLhyphen"/>ſand pounds which was to be returned to <hi>Holland</hi> to buy Arms, <hi>&amp;c.</hi> for <hi>Scotland.</hi> He alſo told us that the <hi>Scotch</hi> Gentlemen had made another Propoſal to the Managers, thus, if they would ſupply them with thirty thouſand pounds, they would begin it in <hi>Scotland</hi> firſt, which they could ſoon have, and then would Invade <hi>England,</hi> deſiring the Managers only to get a Party in the North of <hi>England,</hi> ready to oppoſe any Force from coming out of <hi>England</hi> againſt them, before they had ſetled <hi>Scotland:</hi> but this was not approved of, the Managers chuſing rather to ſupply them with 10000 l. and to begin it in <hi>England</hi> the ſame time. Then we daily expected to hear when the Mony would be paid, but ſtill found no<g ref="char:EOLhyphen"/>thing but delays, the Managers not agree<g ref="char:EOLhyphen"/>ing how to raiſe the Mony, and that if the Mony had been ready, they were
+<pb n="5" facs="tcp:49127:3"/>come to no Concluſion as to any method more than they were nine months before, having done nothing but talked to enſnare people, reporting about in all parts how the Liberties of the people were daily more and more infringed, and that Arbitrary Government and Popery was coming in apace, which in<g ref="char:EOLhyphen"/>cenſed people very much and made ſuch a grumbling in all parts that we fear'd longer de<g ref="char:EOLhyphen"/>lays would make the common people in many parts mutiny, it being as we thought ſo gen'rally known, except ſomething was ſuddenly done, it was impoſſible it ſhould remain undiſcovered, ſo the next time we met with <hi>Rumſy</hi> and <hi>Fer<g ref="char:EOLhyphen"/>guſon</hi> (tho never together) we declared our diſſatisfaction by Reaſon of ſuch long delaies and ſpoke it ſo as that it might come to the managers Ears, as we ſuppoſe it did, being to this effect, That we thought they had only a deſigne to betray people, drawing many thouſands into a ſnare, for their actions ſhew<g ref="char:EOLhyphen"/>ed little otherwiſe, being ſo long diſcourſing a thing of that nature and done ſo little to<g ref="char:EOLhyphen"/>wards it: few daies after meeting with <hi>Rumſy</hi> again, he told us they were of different opini<g ref="char:EOLhyphen"/>ons concerning a method, ſome for beginning the Inſurrection only in <hi>London</hi> and <hi>Scotland,</hi> ſome for it in all places at once as at firſt pro<g ref="char:EOLhyphen"/>poſed, others for leveral places in <hi>England</hi> and <hi>Scotland,</hi> and not in <hi>London,</hi> ſaying that if it was not begun in <hi>London,</hi> but in other places there would be forces raiſed in <hi>London</hi> to ſend out againſt them, which would take out moſt of their ſtrength, and that then <hi>London</hi> might be caſily ſecured; ſomtimes they were for be<g ref="char:EOLhyphen"/>ginning it only in <hi>London</hi> and <hi>Scotland</hi> and to have people come up to <hi>London</hi> from all parts of <hi>England,</hi> to which we anſwered that we thought no way better than what was firſt propoſed, <hi>(viz.)</hi> the beginning of it in many places at once, as before mentioned, for al<g ref="char:EOLhyphen"/>though we had engaged none in or about <hi>Briſtol,</hi> nor ſhould not endeavour it till all things were concluded, yet with the aſſiſtance we were promiſed from <hi>Taunton,</hi> did not doubt but to get men enough to ſecure it, and that we knew not where to get ten men that would come for <hi>London,</hi> and ſuppoſed it might be ſo in other places, men might be willing to ſecure their own Countrey who would not be willing to leave all and come for <hi>London, Rumſy</hi> then ſaid if he knew where to get at the head of 1000 men he would begin it preſently, and deſired that we might meet the next night with ſome others and conſider of things, ſo the next afternoon we met at <hi>Richard</hi>'s Coffee-Houſe near <hi>Temple-Barr</hi> and from thence to a Tavern near, I think called the little or young Devil Tavern, were met eight perſons, <hi>(viz.)</hi> Collonel <hi>Rumſy, Robert Weſt,</hi> Capt. <hi>Norion,</hi> Capt. <hi>Walcot, Richard Goodenough, Francis Good<g ref="char:EOLhyphen"/>enough, Nathaniel Wade</hi> and my ſelf, this was the firſt time <hi>I</hi> knew <hi>Walcot.</hi> When we were all ſit, <hi>Collonel Rumſy</hi> ſpoke to this effect, as near as <hi>I</hi> can remember the ſame words, Gentlemen; if we can raiſe three thouſand men in and about <hi>London,</hi> there is a perſon of Honour will appear at the head of them and begin the buſineſs; which we ſuppoſed to be the Duke of <hi>Monmouth,</hi> and do not well remem<g ref="char:EOLhyphen"/>ber whether he mentioned his name or not. Which propoſal much ſurprized Mr. <hi>Wade</hi> and <hi>I,</hi> that he ſhould then queſtion the raiſing of 3000 men, whereas when it was firſt menti<g ref="char:EOLhyphen"/>oned to us we thought they had been ſure of many thouſands in <hi>London</hi> at an hours war<g ref="char:EOLhyphen"/>ning. Then it was conſidered how 3000 men might be raiſed and how they might do ſomething to the purpoſe: then we declared what method we had concluded on for the management of Affairs in <hi>Briſtol,</hi> which, was as followeth, and they could think of no better way, ſo it was concluded that <hi>London</hi> and the Suburbs ſhould be divided into Twenty parts, and one man made choice of in each diviſion who ſhould chuſe out ten in his diviſion that he could truſt, and each of thoſe ten to find out fifteen, which would make 161 in each diviſion, ſo that twenty diviſions would produce 3220. in order to which a Map of <hi>London</hi> was to be bought the nex: day, and each diviſion drawn out in a particular paper, mentioning every Street and Lane of note in it, with the North, Eaſt, South and Weſt bounds thereof, and to be brought the next meeting two or three nights after; at the firſt meeting it was agreed that none ſhould know of this Deſign, <hi>viz.</hi> (of the chief Managers) till all the men were ſecured, and that thoſe ſeven (<hi>I</hi> being not to ſtay long in <hi>London</hi>) ſhould meet every two or three nights till all was compleated. At this meeting <hi>Rumſy</hi> and <hi>Weſt</hi> would be often ſaying, there was no<g ref="char:EOLhyphen"/>thing like the lopping buſineſs, meaning the taking off the King and Duke, and that it might be eaſily done as they went to or from <hi>Windſor,</hi> or to or from the <hi>Play-Houſe,</hi> but I never heard any agree with him in it. Next day a Map was bought and brought to <hi>Weſt</hi>'s Cham<g ref="char:EOLhyphen"/>ber in the <hi>Temple,</hi> where ſome met to divide it, and draw out the diviſions againſt the next meeting. The next place we met at I think was the Caſtle-Tavern in <hi>Fleet-ſtreet,</hi> where ſome of the diviſions were brought, all being not done, and then it was conſider'd how they ſhould be diſtributed, being we were moſt ſtrangers, and agreed that <hi>Richard Goodenough,</hi> who had been Under-Sheriff, and ſo had a general Acquaintance, ſhould do it, who was willing to undertake it, the reſt of the diviſions
+<pb n="6" facs="tcp:49127:4"/>to be ready againſt the next meeting, which was two or three Nights after at the Green-Dragon Tavern upon <hi>Snow Hill,</hi> where when Mr. <hi>Goodenough</hi> came he told us, That he had diſpoſed of ſome of them, and did hope it would take effect, and that in a week or ten days he ſhould have fixed the twenty men; the conſideration how things ſhould be manag'd, was deferred till they were ſure of the men, only ſome mention'd their Opinions how the <hi>Tower, White Hall,</hi> and other places might be beſt ſurpriſed. The <hi>Tower</hi> was thought might be beſt gained in the day time, <hi>White-Hall</hi> and other places in the night, with many ſuch things in way of diſcourſe: <hi>Rumſy</hi> was ſtill upon the old ſtrain of killing the King and the Duke, ſaying (at this the laſt meeting I was at, going for <hi>Briſtol</hi> next morning) that it might be done in <hi>Windſor-Park,</hi> and that he would un<g ref="char:EOLhyphen"/>dertake it, but not except every one there pre<g ref="char:EOLhyphen"/>ſent would go with him, to which not one conſented, I replying that I was for no ſuch thing, but ſeeing the other buſineſs had gone ſo far, and was known to ſo many, if they could bring it to bear in <hi>London</hi> and other places, <hi>I</hi> raſhly ſaid, rather than fail of <hi>Briſtol</hi> we will undertake it at Noon-day with an hundred Men; to which <hi>Rumſy</hi> ſaid I was a bold Fellow; they then promiſed (when they were ſure of the men) to adviſe and take care for ſome Arms for us at <hi>Briſtol,</hi> and that we ſhould have ſome Great Perſon come down to head us; but <hi>I</hi> heard no more till the news of the Diſcovery came in publick Letters; I remember one time when <hi>Wade</hi> and <hi>I</hi> was with <hi>Firguſon,</hi> he told us that the Duke of <hi>Monmouth</hi> was brought to a low Condition, all his Places being taken from him, and his Tenants in <hi>Scotland</hi> (being ſo ſeverely dealt with upon account of their Religion) was not able to pay Rent, ſo that his Eſtate there, which was accounted worth Ten or Twelve Thouſand Pound <hi>per An.</hi> did not yield him the laſt Year Two Thouſand Pound, that he was not well pleaſed with the management of Affairs, and deſired Mr. <hi>Wade</hi> to Appoint a place where he would meet the Lord <hi>Gerrard,</hi> and Sir <hi>Thomas Armſtrong,</hi> to diſ<g ref="char:EOLhyphen"/>courſe them, to which Mr. <hi>Wade</hi> replyed, he would meet none of them, for ſuch Great Men had betrayed the Nation already, and enſnar'd too many Thouſands to no purpoſe.</p>
+               </div>
+               <div type="part">
+                  <head>How it was to have been acted in <hi>Briſtol.</hi>
+                  </head>
+                  <p>We concluded that the only way to ſecure <hi>Briſtol</hi> would be by a ſuprize, which with about 350 men (150 of which we depended on from <hi>Taunton,</hi> the other 200. to be raiſed in and about the City) might eaſily be done about 4 of the Clock in the morning, as ſoon as the Watch were gone off, without the bloodſhed of one man; thus, dividing the City into fourteen parts, ſo making thirteen Poſts beſides the main Guard, which ſhould at firſt have been at the <hi>Toulzy</hi> (which is in <hi>Briſtol</hi> as the Exchange here) we ſuppoſ<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d 20. men might be ſufficient for each Poſt, and the re<g ref="char:EOLhyphen"/>mainder for the main Guard, out of which might be ſpared 4. or 6. Files to be conſtantly marching about, and to aſſiſt where there might be occaſion. The method we deſigned for the raiſing of 200. men in and about the Ctiy was thus, firſt to find out 30 men, 2 for each Poſt, and 4 for the main Guard, who might be able each of them to procure 6. and to command them, which would have made 14. for each Poſt and 28. for the main Guard, to whom the <hi>Taunton</hi> men ſhould be added, <hi>(viz.)</hi> 6. to each Poſt and the re<g ref="char:EOLhyphen"/>mainder to the main Guard, who ſhould have come in the day before, ſome at every en<g ref="char:EOLhyphen"/>trance of the City and lodge themſelves at Inns and Ale-houſes as near the Poſts they were appointed for as they could: each man being to know his Poſt and Commanders before they came, the <hi>Briſtol</hi> Men to Lodge them<g ref="char:EOLhyphen"/>ſelves and Arms, with Arms for the <hi>Taunton</hi> Men, in an Houſe as near as poſſible to their Poſts, and to ſend one out from each Poſt between Three and Four of the Clock in the morning to obſerve the motion of the Watch, and to adviſe as ſoon as they were gone off, that they might all immediately re<g ref="char:EOLhyphen"/>pair to their reſpective Poſts, calling the <hi>Taun<g ref="char:EOLhyphen"/>ton</hi> men, and as ſoon as they had gained their Poſts to ſend out a File of Muſquetiers to fetch in ſuch and ſuch men in each of their diviſions as they ſhould, have had an account of before, and convey them to the main Guard, which in the fourteen Diviſions would have been about Sixty Perſons, Commiſſion-Officers and others; then to fetch in all the Arms and Ammunition they could find, which two things being done (as we ſuppoſed might be in a little time, and without any oppoſition, the Poſts being ſo near each other, that it would have been impoſſible for any Number to get together) we reſolved next to declare the reaſons for our taking up Arms, and to encourage all to come in to us that we could truſt, not doubting but we ſhould ſoon have had many Thouſands in the City, and out of the adjacent Counties, <hi>Glouceſter, Somerſet</hi> and <hi>Wilts.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The Reaſons why I did not come in, <hi>&amp;c.</hi>
+                  </head>
+                  <p>When the News of the Diſcovery firſt came to <hi>Briſtol,</hi> and ſome time before, I was in ſome trouble by my Creditors, and forced to ab<g ref="char:EOLhyphen"/>ſcond tho' thought I had ſufficient to pay them,
+<pb n="7" facs="tcp:49127:4"/>only deſired time to get in my effects, their mercy I feared more than your Majeſties, and thought if I ſhould come in and find mercy with your Majeſlly, I could at firſt expect no better than a Priſon, and if from it diſcharged by your Majeſty, to be kept in by them upon account of my debts. Secondly, hearing there was very many (in and about <hi>Briſtol</hi>) ſuppoſed to be concerned, and I (tho' knowing ſo much) being able to prove ſo little againſt any man, but ſuch againſt whom there was ſufficient proof without me, feared that if I ſhould come in more would be expected from me than I could prove, and ſo might fail of mercy, it having been our reſolution not to diſcover the Deſign to any of our Friends till the Managers had agreed both upon time and method, there<g ref="char:EOLhyphen"/>fore conſidered how to make my eſcape, there being then a ſtrict ſearch in all Ports, thought beſt to continue in <hi>England</hi> for ſome time, till the heat might be over, and ſo got an ordi<g ref="char:EOLhyphen"/>nary habit and a little horſe about 40 ſhillings price, and travell'd the Country as a man dealing in Wool, in <hi>Glouceſter-ſhire, Oxford-ſhire,</hi> and <hi>Summerſet-ſhire,</hi> till about the middle of <hi>Auguſt,</hi> then repaired towards <hi>Briſtol,</hi> and by Letter with my Wifes Aſſiſtance (all other Friends thereabout fearing to act for me) pre<g ref="char:EOLhyphen"/>vailed with a poor man Who had a ſmall Boat about ten Tuns, for twenty Pounds reward and the like <hi>per</hi> Month, for ſix Months, to go with me for <hi>France,</hi> and from thence to the <hi>Weſt-Indies</hi> or where I would, my Name being then in no Proclamation or Declaration, if it had I ſhould not have prevailed with the man to go with me. So the twenty third of <hi>Auguſt</hi> Sailed from <hi>Kings-Road</hi> for <hi>Rochell,</hi> the 25th. proving bad weather, crackt our Maſt, and ſo put into St. <hi>Ives</hi> in <hi>Cornwall,</hi> where we ſtayed till the fourth of <hi>September,</hi> then put out again for <hi>Rochell,</hi> but meeting with contrary Winds was forced into ſeveral places in <hi>France,</hi> and gained not our Port till the ſeventeenth. In <hi>Rochell I</hi> loaded her with Brandy and other Goods, and the fourth of <hi>October</hi> ſailed from thence for the <hi>Weſt-Indies</hi> (being willing to know how my Concerns lay there, that my Creditors might have their own, tho' I knew I might be much ſafer in <hi>France</hi>) and arrived at <hi>Barhadoes</hi> the eleventh of <hi>November,</hi> there I heard of my Name being in the Gazette, therefore ſtayed but two days landing part of my Cargo, from thence I went to <hi>Antigua,</hi> where I landed and diſpoſed of the remaining part, ſtaying there about ten days; but it being too ſoon for the Crop, and my charge being the ſame, lying ſtill or going farther, alſo thinking it not ſafe to lie long there, reſolved to ſee the reſt of the <hi>Caribby Iſlands,</hi> and ſo went down to <hi>Mounſerat, Nevis,</hi> St. <hi>Chriſtophers,</hi> St. <hi>Eſtatia</hi> and <hi>Anguilla,</hi> and ſo back again to St. <hi>Chriſtophers,</hi> ſuppoſing that to be the ſafeſt place, I being known to none there, where I ſtayed about three weeks. About the fourteenth of <hi>January</hi> I wrote to my Factor in <hi>Nevis</hi> about what was due to me, who on receit of my Letter diſcover'd me, ſo that Sir <hi>William Stapleton</hi> preſently ſent his Warrant to St. <hi>Chriſtophers</hi> to Apprehend me, but before it came I was gone down to St. <hi>Eſtatia,</hi> expecting to meet my Veſſel there, which I had ſent up to <hi>Barbadoes,</hi> and it being known where <hi>I</hi> was gone, the Deputy-Governor of St. <hi>Chriſtophers</hi> ſent five men with his Warrant after me, to whom on ſight thereof <hi>I</hi> ſubmitted, tho' had an Opportunity and might have eſcaped, but was rather willing to caſt my ſelf at His Maje<g ref="char:EOLhyphen"/>ſties Feet for mercy, than live ſuch a Life any longer, not daring to appear where there was need of me (among my Factors) who I doubt will take too much Advantage by my Trou<g ref="char:EOLhyphen"/>bles for my Creditors Intereſt. In <hi>Nevis</hi> I was kept a Priſoner 13 days, where I promiſed Sir <hi>William Stapleton</hi> that <hi>I</hi> would make what Diſcovery <hi>I</hi> could, giving him the Names of ſome who <hi>I</hi> had acquainted with it in <hi>Briſtol,</hi> which I ſuppoſe he hath given an Account of, deſiring him that it might be kept private, for if it was known they would have Advice of it; but it was not kept ſo private as I expected, for the Night I came off I was told of it, there<g ref="char:EOLhyphen"/>fore ſuppoſe they were advis'd by a <hi>Briſtol</hi> Ship that came away before us, by which <hi>I</hi> wrote not a word, I ſuppoſe ſhe might be at home long before us, we being nine Weeks and five Days. All that <hi>I</hi> can ſay againſt any of them, except <hi>William Wade</hi> who is before-mention'd, is That <hi>I</hi> Acquainted them with the buſineſs, as <hi>I</hi> believe many Thouſands in <hi>England</hi> were, and do ſuppoſe they would have been con<g ref="char:EOLhyphen"/>cern'd. Hereunder is an Account of many other Perſons that <hi>I</hi> have heard was concerned in the Deſign for an Inſurrection, which is all that I can call to mind of any thing material that ever <hi>I</hi> heard concerning the Plot.</p>
+               </div>
+               <div type="part">
+                  <head>Here he mention'd the Names of ſeveral Perſons.</head>
+                  <p>Now if your Majeſty is graciouſly pleaſed to ſpare me, it will be a ſufficient warning to me for ever medling in things of that nature again: and <hi>I</hi> hope I ſhall have the Opportunity of ſerving your Majeſty and my Country in the promotion of that which brought me into this and coſt me many hundred pounds, with ſome years pains to bring it to that perfection <hi>I</hi> did, <hi>(viz.)</hi> the Linnen Manufacture which many Honourable Perſons about your Court have heard of, and I can make it appear that it will imploy near eighty thouſand poor People and forty thouſand Acres of Land, and
+<pb n="8" facs="tcp:49127:5"/>bring in and ſave your Majeſty near two hun<g ref="char:EOLhyphen"/>dred thouſand pounds <hi>per An.</hi>
+                  </p>
+                  <p>Another thing which I think I may ſerve your Majeſty in (abroad) is this, when I left <hi>England</hi> I knew there was many who were in trouble about their Opinions would willingly have left <hi>England</hi> if they knew where to go, that they might have liberty. There is a very fine Iſland in the Weſt-<hi>Indies</hi> good land and well watered which by ſuch people would be ſoon ſetled and prove a great advantage to your Majeſty and Succeſſors, for it would ſoon ex<g ref="char:EOLhyphen"/>ceed any Iſland, except <hi>Barbadces</hi> and <hi>Jamaica,</hi> it lies ſo near a bad neighbour, the Spaniard <hi>Portrico,</hi> that except a conſiderable number go together, it will be dangerous living there; but if no great alteration in affairs ſince <hi>I</hi> left <hi>England</hi> with your Majeſties leave, enough might be prevailed with to go and ſettle it at once, which will not only ſerve your Majeſty as before, but clear the Nation of ſome hundreds of diſ<g ref="char:EOLhyphen"/>affected people.</p>
+               </div>
+            </div>
+            <div type="proceedings">
+               <pb n="9" facs="tcp:49127:5"/>
+               <head>Die Lunae <hi>21 April. 36 Car'</hi> Secund. Regis. Anno Dom' <hi>1684.</hi> B. R.</head>
+               <head type="sub">Dominus Rex verſus <hi>Jacobum Holloway.</hi>
+               </head>
+               <p>HIS Majeſties Artorney General having on <hi>Frida,</hi> laſt moved the Court of Kings Bench for an <hi>Habeas Corpus</hi> Returnable this day, directed to the Keeper of his Majeſties <hi>God</hi> of <hi>Nowgate,</hi> to bring thither the Body of <hi>James Holloway</hi> then in his Cuſtody, to ſhew Cauſe why Execution ſhould not be awarded upon an Outlawry for High Treaſon againſt him. The Keeper of <hi>Nowgate</hi> according to the Command of the Writ brought him this day to the Bar of the ſaid Court, where he was proceeded againſt in this manner.</p>
+               <stage>
+                  <hi>The Return of the Writ of</hi> Habeas Corpus <hi>was firſt Read.</hi>
+               </stage>
+               <sp>
+                  <speaker>Cl. of Crown.</speaker>
+                  <p>
+                     <hi>James Holloway,</hi> hold up thy hand, <hi>(which he did)</hi> Thou haſt been Indicted in <hi>London</hi> by the Name of <hi>James Holloway</hi> late of <hi>London</hi> Mer<g ref="char:EOLhyphen"/>chant, for High Treaſon by thee committed tou<g ref="char:EOLhyphen"/>ching the Kings Majeſties Perſon, and the Govern<g ref="char:EOLhyphen"/>ment of this his Kingdom of <hi>England,</hi> and for not appearing and anſwering that Indictment, by due Proceſs of Law upon the Indictment thou ſtandeſt Outlawed, and upon that Outlawry thou ſtandeſt Attainted of the ſame High Treaſon; What haſt thou to ſay for thy ſelf why Excecution ſhould not be awarded againſt thee upon that Attainder by this Court according to Law?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>My Lord, I have been a great while Abſent, and know not what hath been done in this matter, or proved againſt me.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>Yes, you have been Abſent ſo long it ſeems, that you now ſtand Outlawed, and thereby Attainted of High Treaſon; there is no<g ref="char:EOLhyphen"/>thing now remains with the Court but only to make a Rule for your Execution.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>If an ingenuous Confeſſion of the Truth will merit the Kings Pardon, then ſure I have done it.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>For that matter we are not to diſ<g ref="char:EOLhyphen"/>poſe of the Kings Mercy, he will diſpoſe of his own Mercy as he ſhall think fit. Is Mr. Attorney in the Hall?</p>
+               </sp>
+               <sp>
+                  <speaker>Cryer.</speaker>
+                  <p>Yes, my Lord, he is.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>Then pray ſend for him.</p>
+               </sp>
+               <stage>(Which was done, and in a little time after he came into Court.)</stage>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>Mr. Attorney, here is the Priſoner at the Bar, <hi>Holloway.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Att. Gen.</hi>
+                  </speaker>
+                  <p>Yes, my Lord, I ſee he is. Sir <hi>Sa<g ref="char:EOLhyphen"/>muel Aſtry,</hi> have you the Record there?</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of Cr.</speaker>
+                  <p>Yes, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>It has been read to him, Mr. At<g ref="char:EOLhyphen"/>torney.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Att. Gen.</hi>
+                  </speaker>
+                  <p>My Lord, I would know what he ſaith that Execution ſhould not be Awarded.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>He talks of Diſcoveries and Con<g ref="char:EOLhyphen"/>feſſions which we, you know, we cannot take any notice of; Ask him again.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of Cr.</speaker>
+                  <p>Haſt thou any thing to ſay for thy ſelf why Execution ſhould not be awarded againſt thee according to Law?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>My Lord, I know not what hath been proved againſt me, but I have made ſuch an Ingenuous Confeſſion to his Majeſty of what I know—</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>Proved againſt you? You are Out<g ref="char:EOLhyphen"/>lawed upon an Indictment for High Treaſon; what can you ſay againſt the Courts awarding Exe<g ref="char:EOLhyphen"/>cution?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Att. Gen.</hi>
+                  </speaker>
+                  <p>My Lord, has he heard the Indict<g ref="char:EOLhyphen"/>ment upon which the Outlawry was grounded?</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of Cr.</speaker>
+                  <p>No, Sir, only the Subſtance was told him, That he was Indicted of High Treaſon, and Outlawed for it, and ſtands Attained by that Outlawry.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Att. Gen.</hi>
+                  </speaker>
+                  <p>If your Lordſhip pleaſe, the In<g ref="char:EOLhyphen"/>dictment may be read to him, that he may under<g ref="char:EOLhyphen"/>ſtand what it is, and may not go blind to Exe<g ref="char:EOLhyphen"/>cution.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>Ay, Mr. Attorney, if you pleaſe let it be ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of Cr. Reads.</speaker>
+                  <p>The Jurors being Sworn to en<g ref="char:EOLhyphen"/>quire for our Sovereign Lord the King, and the Body of the County of the City of <hi>London</hi> upon their Oaths preſent, That—</p>
+                  <stage>(and ſo the whole Indictment was Read.)</stage>
+               </sp>
+               <sp>
+                  <speaker>Cl. of Cr.</speaker>
+                  <p>That is the Indictment, Mr. Attorney, and upon this he is Outlawed.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Att. Gen.</hi>
+                  </speaker>
+                  <p>And ſo ſtands Attainted. What hath he to ſay to it?</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>Ay, why ſhould not we award Execution againſt him according to Law?</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of Cr.</speaker>
+                  <p>Have you any thing to ſay?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I have ſaid what I have to ſay.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Att. Gen.</hi>
+                  </speaker>
+                  <p>Pray what is that, my Lord, that he has ſaid, for I was not here?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I beg his Majeſties Mercy.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Att. Gen.</hi>
+                  </speaker>
+                  <p>If the King be ſo Gracious as to admit you to your Tryal, can you make a de<g ref="char:EOLhyphen"/>fence againſt the Indictment? Have you any thing to ſay that you can defend your ſelf by, if
+<pb n="10" facs="tcp:49127:6"/>the King do admit you to be tryed, and that is a Mercy and a Grace, for at Law you are gone.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>It is ſo, indeed, Mr. Attorney; if von will on the Kings behalf indulge him ſo far as I ſuppoſe you have Authority from the King to Co<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nt unto, that if he has a mind to try the Fact, and can defend himſelf, he ſhall have that Liberty, that is a great Mercy I aſſure you.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Att. Gen.</hi>
+                  </speaker>
+                  <p>My Lord, That is the only reaſon why I did cauſe the Indictment to be read that he might hear it; that ſuppoſing he were not Out<g ref="char:EOLhyphen"/>lawed, but that were out of the Caſe, if he hath any thing to ſay that could defend him from it, the king would not exclude him, but admit him to his Tryal, and extend his Mercy ſo far to him.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>Mr. Attorney, it is exceeding well. Now you underſtand what is ſaid by the Kings Attorney, you have heard the Indictment read, it is an Indictment of High Treaſon, that you with other falſe Traytors, <hi>Hone, Ramball,</hi> the <hi>Goode<g ref="char:EOLhyphen"/>nought,</hi> and the reſt, did Conſpire the Death of the King. Now though you are in Law actually At<g ref="char:EOLhyphen"/>t<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d, as much as if you had been Tryed and Convicted, and received Judgment of Death upon that Conviction to all intents and purpoſes, and there is no more for the Court to do but to award L<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>on upon this Attainder, and be dealt with as a falſe Traytor. Yet however in as much as you have heard the Indictment read, if you think you have any thing to ſay that would ſatisfie the World, or a Jury, that you are not Guilty of what you are Indicted and Accuſed of, it ſeems the King is pleaſed to ſignifie his Gracious Inten<g ref="char:EOLhyphen"/>ton towards you by Mr. Attorney General, that he is contented to Wave that other part the At<g ref="char:EOLhyphen"/>tainder by Outlawry, and you ſhall have the Li<g ref="char:EOLhyphen"/>berty to try it, if you think you can defend your ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>My Lord, I cannot undertake to de<g ref="char:EOLhyphen"/>fend my ſelf, for I have Confeſſed before his Ma<g ref="char:EOLhyphen"/>jeſty that I am Guilty of many things in that Indictment, and I throw my ſelf on the Kings Mercy.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>Then he Confeſſeth it, and will not undertake to defend himſelf; as for the Kings Mercy that we muſt leave to his Majeſty, who is the Diſpenſer of his own Grace, we are to exe<g ref="char:EOLhyphen"/>cute his Juſtice, and muſt give a Rule accor<g ref="char:EOLhyphen"/>dingly.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Juſt. With.</hi>
+                  </speaker>
+                  <p>But I hope every body here takes bonce of his open Confeſſion, when he might try it if he would. Surely none but will beneve this Conſpiracy now, after what this man hath owned.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>We were well enough ſatisfied a<g ref="char:EOLhyphen"/>bout it before, and ſo was every he reſt man, I dare ſay.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Juſt. With.</hi>
+                  </speaker>
+                  <p>Yet, perhaps, though he ſaith it, and others have Confeſſed it, and the Evidence hath been made Publick, there are many People that ſay they will not believe it.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>We do not mightily concern our ſelves what the People ſay. I am ſure not one of all that were concerned in this Conſpiracy have dared to deny it abſolutely, though ſome have been prevailed upon by ill Advice to Prevaricate about it, and Shuffle it off. But none of them have had the Conſidence abſolutely to deny the Truth of the Fact, notwithſtanding all the Calum<g ref="char:EOLhyphen"/>nies and Reproaches caſt upon the Government, and all the arts that have been made uſe of to Stifle it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Juſt. With.</hi>
+                  </speaker>
+                  <p>My Lord, I ſpeak it the rather becauſe we ſee what work Sir <hi>Samud harnardiſton</hi> has made of it in his Letters, where he calls it a Sham-Plot, and ſays it is loſt except it be ſound among the Abhorrers and Addreſſers.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>But now the Plot is found among the Conſpirators and Traytors, he may write to his Correſpondents in the Country the next time, It is found among the Reformers of Government and Religion, that can Swallow all thing, that can kill Kings, and Levy War, and do the Wont of Villanies to promote Religion and Reformation, as they call it. — Let us think of ſome con<g ref="char:EOLhyphen"/>venient day, and give ſuch Order that the She<g ref="char:EOLhyphen"/>riffs ſee Execution done according to Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Att. Gen.</hi>
+                  </speaker>
+                  <p>You muſt firſt pronounce the Judgment, my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Juſt. With.</hi>
+                  </speaker>
+                  <p>It is never pronounced in ſuch a Caſe, Mr. Attorney.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>No, we only give a Rule for Exe<g ref="char:EOLhyphen"/>cution, the Outlawry is the Judgment, and that is upon the Record already.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of Cr.</speaker>
+                  <p>Yes, my Lord, we always enter it ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>Captain <hi>Richardſon,</hi> I think, <hi>Wedneſ<g ref="char:EOLhyphen"/>days</hi> and <hi>Fridays</hi> are your uſual Execution days in <hi>London,</hi> are they not?</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>Yes, my Lord, either of them.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>Then <hi>Wedneſday</hi> ſeven-night.</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>Does your Lordſhip appoint <hi>Wedneſday</hi> next</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>No, that will be too quick; <hi>Wed<g ref="char:EOLhyphen"/>neſday</hi> ſeven-night.</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>What day your Lordſhip plea<g ref="char:EOLhyphen"/>ſeth, I ſuppoſe I ſhall have a Rule.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of Cr.</speaker>
+                  <p>You ſhall have a Rule, and an <hi>Habeas Corpus</hi> to deliver him, as the Courſe is.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Ch. Juſt.</speaker>
+                  <p>In the mean time take you Priſoner back again.</p>
+               </sp>
+               <p>
+                  <hi>And accodringly be was carried back to</hi> Newgate.</p>
+            </div>
+            <div type="petition">
+               <pb n="11" facs="tcp:49127:6"/>
+               <head>The Petition to His Majeſty.</head>
+               <opener>
+                  <salute>Moſt Great and Gracious Sovereign,</salute>
+               </opener>
+               <p>I Your Majeſties now cloſe Priſoner in <hi>Newgate,</hi> and Condemned for my Crimes, which I have Conſeſſed my ſelf Guilty of, in a Paper of my own Writing, delivered to the Right Honourable the Lords of your Majeſties Privy Council, in which is a true and faithful Account of all that I know concerning the Late Plot, with the manner How I was drawn into it, and the Reaſons why I did not come in at the firſt Diſcovery, and caſt my ſelf at your Ma<g ref="char:EOLhyphen"/>jeſties Feet for Mercy, which I hope your Majeſty hath peruſed, and find no cauſe to think I have reſerved any thing undiſcovered; for when I was firſt taken I reſolved to declare the whole Truth, and nothing but the Truth, which I have here done, and will own to be True before any that ſhall offer to Contradict it, or ſay, There was no Plot; and if any thing more occurs to my Memory will not fail to declare it. I have now nothing to ſay for my ſelf why I ſhould not be Executed according to Condemnation, but do moſt humbly proſtrate my ſelf at your Majeſties Feet for Mercy, acknowledging my hearty Sorrow for all that I have been Guilty of, and rema<gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>pes than that Fountain of Mercy which hath ſo abundantly flowed from your Majeſties Sacred Breaſt ever ſince <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> happy Reſtauration is not yet dry, but that there is ſome Drops left for me, which if I may be ſo happy as to Obtain, I ſhall always whilſt I live endeavour to Approve my ſelf your Majeſties most true and faithful Subject, and I hope <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the ends of a Pardon. Which that I may ſo do, and for your Majeſties long Life, P<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ble and Happy Reign, ſhall ever Pray, <hi>&amp;c.</hi>
+               </p>
+               <closer>
+                  <signed>James Holloway.</signed>
+               </closer>
+            </div>
+            <div type="discourse">
+               <head>The Diſcourſe that paſſed between the Sheriffs of <hi>London</hi> and <hi>JAMES HOLLOWAY,</hi> at the time of his Execution.</head>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>MAy I have Liberty, Sir, to ſpeak what I deſire to ſpeak?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel</hi>
+                  </speaker>
+                  <p>Yes, Sir, you may. What you have, I ſuppoſe, will be by way of Diſcovery to the World of what you are brought here to dye for.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>You have my Paper, Captain?</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Have it you about you?</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>I have it in my Pocket.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel</hi>
+                  </speaker>
+                  <p>Shew it him. <stage>(Which he did.)</stage> Is it your own hand Writing?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>Yes, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh Daniel.</hi>
+                  </speaker>
+                  <p>Is it your own hand Writing?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>That is my own hand Writing.— A Diſcovery of what I knew I made to his Ma<g ref="char:EOLhyphen"/>jeſty, but a great many People think that I have not diſcovered what I knew, but I have diſcover<g ref="char:EOLhyphen"/>ed what I know of the <hi>PLOT,</hi> and I am heartily ſorry I was any way concerned in that way, as to the endeavouring any thing by Arms. I do think ſeveral things have been ill managed in <hi>England,</hi> th<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> have been many things done againſt the King and the Kingdoms Intereſt, and I wiſh the King was well ſatisfied of it, and that a courſe might be taken to prevent it. And I think one w<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y to prevent Plotting (according to my week Capacity) is, That his Majeſty would be pleaſed to call a Parliament, and paſs an Act of Oblivion for all Plotters whatſoever. There was a dam<g ref="char:EOLhyphen"/>nable Popiſh Plot, and I look upon the ſtifling of That to be the only Cauſe that any man did any thing in This. Had all the Popiſh Plotters been—</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>By the way, Sir. How do you know it was ſtifled?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>Sir, we have known that the Laws could not be ſuffered againſt them, and the Par<g ref="char:EOLhyphen"/>liament could not be ſuffered in the Proſecution of them. I wiſh the King would conſult his own Safety, and the Safety of the Nation; and that an Act of Oblivion might paſs, for I believe there are many Concerned; and that there might be an end put to all News mongers, that write into the Country Letters of News, I look upon that to do the King and the Kingdom more hurt than any thing elſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Holloway,</hi> I beg one thing, have you diſcovered all? I deſire you would de<g ref="char:EOLhyphen"/>clare thoſe, (you did not name their Names) that if occaſion were would be r<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ady; but that you had not ſpoke to them? <hi>Wade</hi> and others were to maintain their Poſts.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>No, Sir, I had not ſpoke to them.</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>This you did ſay.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>Yes, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Sh. Daniel.</speaker>
+                  <p>And that you promiſed a num<g ref="char:EOLhyphen"/>ber of men in this Deſign.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>Promiſe it? I did propoſe I might do it.</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>What do you know of the Contriving the buſineſs of the <hi>RYE:</hi> for Lop<g ref="char:EOLhyphen"/>ping, or taking off the King and the Duke?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I was not with them till after the time a good while; till about a Month or ſix Weeks after the time I was not acquainted with them. I looked upon it as a buſineſs not likely
+<pb n="12" facs="tcp:49127:7"/>to take any effect at all, for I could never ſind a<g ref="char:EOLhyphen"/>bove Five that were concerned in it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>But did they not tell you at ſome one time they were concerned in ſuch a thing?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway</speaker>
+                  <p>Yes, Sir, they did ſo. They told me more than once.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>In <hi>Briſtol,</hi> or in <hi>London?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>In <hi>London.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Holloway,</hi> you have a Liberty to ſay any thing you have a mind to.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I have little to ſay more upon that Account. I am ſorry I was concerned in that way, to do ſuch a thing as to take up Arms. But as to the Deſign I had, and the <hi>PLOT</hi> I was ac<g ref="char:EOLhyphen"/>quanted with, it was nothing againſt the Kings Life.</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>Sure at was the ſame <hi>PLOT,</hi> while there was a Deſign to ſeize the King, and take him from evil Company.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>We had a Deſign to take them that were Guilty of the Popiſh Plot, and were Ene<g ref="char:EOLhyphen"/>mies to the Privileges and Liberties of the Subject.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>And as a thing that tended to that, the King was to be ſeized till he conſented to theſe things?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>It was ſuppoſed by them that told me of it, that many things that have been acted of late, were done contrary to the Kings know<g ref="char:EOLhyphen"/>ledge, and that the King knew nothing of it; and I am perfectly of that belief too, That many things are done contrary to the Kings knowledg. And I was farther informed, That if the King could be but once acquainted with theſe things, that the King would preſently come in to thoſe that ſhould ſtand for his aſſiſtance, and give up all thoſe Offenders to Juſtice.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>And if you could not tell him otherwiſe, you would take him firſt, and tell him afterwards.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>You may interpret it how you pleaſe, Sir. It was that all ſuch Differences amongſt the Kings Subjects might be prevented for the future; for I believe there were never greater Differences in the Spirits of men, though ſome think the Times were never better than now, becauſe all things go according to their own humour; but I ſuppoſe many in the Nation are ſatisfied that many things have been done contrary to Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Was it ſit you ſhould ſet up for a Politician, or a Stateſman?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>No, Sir, I did not take it upon me; that was for the Scriblers that write News. I do not reckon my ſelf worthy to direct in ſuch a Caſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Holloway,</hi> you don't remember to give the Names of thoſe Perſons you ſpake of.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>It would be a folly for me, Sir, to go to abuſe men that I did not know whether they would be concern'd or no.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>But that there were Perſons that would be concern'd, you ſay.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>That we did think ſo; and if we ſhould name every one that we thought would be concerned, I believe we might name three parts of <hi>London.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>I hope you are in a great miſtake there.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>For that Deſign, I believe above three parts would be for. I never had any De<g ref="char:EOLhyphen"/>ſign but for the King and the Kingdoms Intereſt, though I know that Deſign that was carried on by <hi>Ramſey</hi> and <hi>Weſt</hi> was a very heinous Deſign, but I believe they would not have found many in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> that would have been for it, I never heard of above Five fo<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Were you acquainted with <hi>Wale<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I was in his Company once or twice, but I heard him ſpeak against it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Was you ever with my Lord <hi>Shaftsbury?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>No, Sir, I was never with my Lord <hi>Shafisbury</hi> but once, and that was about a Deſign I was promoting in Parliament, about the Linnen Manufacture.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Was you ever with my Lord of <hi>Eſſex?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>Never but once, and that was about that buſineſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Were you ever acquainted with my L. <hi>Ruſſel?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>Never with him at all.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>You were ſaying you knew the Names of Five; Who were they that were to be concern'd in that matter?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I have declared them to His Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Did you know <hi>Ferguſon?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I knew him, Sir, but I know <hi>Ferguſon</hi> to be againſt any ſuch Deſign, and indeed, we did look upon it to be a thing that would come to no effect.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>Do you mean the Seizing the King?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I mean the Inſurrection.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Did you know of any Mony raiſed, or promiſed to buy Arms?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>No, Sir, never. I heard of Mony that was to be raiſed, but I did not know who was to raiſe it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>It is not our buſineſs to ask you many Queſtions, if you have any thing to ſay, you may.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>If you have any thing to ſay for the diſcharge of you Conſcience do it.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I thank God, I never had any Deſign againſt His Majeſties Perſon; what I intended, was only for the good of the King and Kingdom, and I did take it, that it would have been ſo, and I am very ſorry that any things ſhould have gone con<g ref="char:EOLhyphen"/>trary to Law, as they have done, and I hope care
+<pb n="13" facs="tcp:49127:7"/>will be taken to prevent any ſuch things for the fu<g ref="char:EOLhyphen"/>ture.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>The King hath ſaid he will go<g ref="char:EOLhyphen"/>vern according to Law; he hath done ſo, and will do ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>That I leave to the Judgment of all; ma<g ref="char:EOLhyphen"/>ny know better than I.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Such Gloſſy Pretences are very ſtrange, to carry on ſuch a Deſign, for the Seizing a Sovereign Prince, that you have Sworn Allegiance to, or ought to have done.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I think thoſe Pretences, the Grounds that we went upon, were no Gloſſy Pretences at all.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>I think it is, that when things are not done as you would have them you muſt im<g ref="char:EOLhyphen"/>mediately Rebel.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>No, Sir, not that; we did not deſign a Rebellion.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>The ſeizing the King is certainly a Rebellion, and one of the higheſt ſteps of Rebellion.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>We ſay this, that all ways were uſed a<g ref="char:EOLhyphen"/>gainſt Proteſtants; ſeveral Sham-Plots; but no juſtice could be had againſt Papiſts.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Several of them were Executed here.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>There were ſome Executed at firſt, Sir, but afterwards when ſo many great Perſons came to be concerned, there was nothing could be had a<g ref="char:EOLhyphen"/>gainſt them.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>There were mighty ſearches made a<g ref="char:EOLhyphen"/>bout <hi>London</hi> for that great number of Papiſts talkt on.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>There were a great many ſeized, Sir; but what became of them?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Generally Tryed, and brought to condign Puniſhment. You would not have had every <hi>Iriſh</hi> man believed againſt honeſt men. Some people were called Papiſts in Maſquerade.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>
+                     <hi>Iriſh</hi> men were believed againſt Proteſtants, after they had turned about, and had Sworn againſt Papiſts, they were believed then. It was well ob<g ref="char:EOLhyphen"/>ſerved that while the <hi>Iriſh</hi> Evidences did continue in the firſt Diſcourſe of the Popiſh Plot, and in the firſt Evidence, then it is well known they were ſlighted, and all cried out againſt; but when they came to Swear againſt Proteſtants, then things were altered preſently.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>I Pray God all mens eyes may be opened to ſee what is done.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I would not adviſe any one to go that way to work, to do any thing by force of Arms, and I wiſh the Kings eyes may be opened that he may ſee his Enemies from his Friends, and I think he hath cauſe to look for them near his home.</p>
+               </sp>
+               <p>Have you any Papers to deliver?</p>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I have no other Papers; what Paper I Wrote the Council had. I did Wr<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te I Paper that it might be ſome ſatisfaction to the Opinions of people of what I knew, that care might betaken to pre<g ref="char:EOLhyphen"/>vent other Opinions if there were an errour. And that Paper the Council had, though they took it very hainouſly of me that I ſhould preſume to Write ſuch a thing. I looked upon it that I could not do more for the King than to acquaint him of what I knew, that if they were miſinformed, there might be care taken to alter the Opinion.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>You have delivered to Paper to your Wife, or to any Friends?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>That I ſuppoſe is well known to the Goaler.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>You know better than any body whether you have or not. You may ſay ay of no.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I could not be admitted to Write any, for I could not have Pen and Ink to Write any thing but this.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>And you have not delivered any Paper?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I have Written to ſome Friends. I know it is ſuppoſed that I had delivered a Copy of that Paper that the Council had, and I think if it had been known publickly it would have done no great hurt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>You ſpeak of ſeveral peoples Opi<g ref="char:EOLhyphen"/>nions; what do you mean?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>As concerning the Times, Sir, the ma<g ref="char:EOLhyphen"/>nagement of Aſſairs.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Pray, Sir, under what denomi<g ref="char:EOLhyphen"/>nation do you reckon your ſelf?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I reckon my ſelf a Proteſtant.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Of what ſort? Of the Church of <hi>England,</hi> or of the Diſſenters from them.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I am not a Diſſenter from the Church of <hi>England.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Nor joyned with them?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>Nor joyned with them altogether. But I thought that if any good had been deſigned for <hi>England,</hi> that I had done enough to merit a Par<g ref="char:EOLhyphen"/>don, for I had Wrote ſo much of Truth, and was ſo fair and plain in it, that I thought it would have merited a Pardon, if any good were deſigned. If I could have diſcovered more, that had been for the King and Kingdoms intereſt I would have done it: For I did not do it raſhly, but conſidered of it ſome time before I gave it in. I hope it will be a ſatis<g ref="char:EOLhyphen"/>faction that there was ſuch a Plot; what other mens Opinions might be of it, I can't tell; but leave every one to their own Judgment. It was feared that Ar<g ref="char:EOLhyphen"/>bitrary Government and Popery was deſigned, and truly I think at this preſent time by what I can un<g ref="char:EOLhyphen"/>derſtand, that there is little better deſigned.</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>This is reflecting upon the Go<g ref="char:EOLhyphen"/>vernment.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>This is not ſit.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I ſay it is contrary to the Kings know<g ref="char:EOLhyphen"/>ledge, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Sir, We have neither a Reprieve, nor a Pardon for you.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I don't expect it, Sir; if Truth and Plainneſs would have merited a Pardon, I might have had it.</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>The King is the beſt Judge of his own mercy.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>Had the Law been executed againſt Popiſh Offenders, I had never been concerned in any Plot.</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>You know the King, was very earneſt in that to have the Laws put in execution againſt them, and that he moved in to the Parlia<g ref="char:EOLhyphen"/>ment to have it done. Have you any thing elſe to ſay that more nearly concerns you?</p>
+               </sp>
+               <sp>
+                  <pb n="14" facs="tcp:49127:8"/>
+                  <speaker>Holloway.</speaker>
+                  <p>I wiſh I could have been any otherways ſervice<g ref="char:EOLhyphen"/>able to the King and Kingdom before I left them. I ſhould have been very willing; and it was always my deſign, to pro<g ref="char:EOLhyphen"/>mote the King and Kingdoms Intereſt more than my own.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Damel.</hi>
+                  </speaker>
+                  <p>Well, Sir, you ſay ſome things very well, but others ill.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>What I ſay, Sir, I leave to peoples Judgments, if I am miſtaken, I hope they will be otherwiſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Damel.</hi>
+                  </speaker>
+                  <p>Well, Sir, have you any thing farther to ſay?</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>No, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>I ſuppoſe you uſed to keep a Meeting, or Club at <hi>Briſtol,</hi> with ſeveral there.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I know ſome have repreſented a Club very bad in <hi>Briſtol.</hi> A Club we had about the Choice of Parliament men.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Damel.</hi>
+                  </speaker>
+                  <p>The Horſe-ſhoe Club.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daſhwood.</hi>
+                  </speaker>
+                  <p>Or the Marmaid Club.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>The Horſe-ſhoe Club it was only for the carrying on the Election of Parliament men. If all ſuch things ſhould be called Clubs, there were greater Clubs kept by another Party.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Dame.</hi>
+                  </speaker>
+                  <p>Well Sir, you had beſt fit your ſelf for Death, you have no long time to live.</p>
+                  <stage>Then he opened his Bibel and read the <hi>62 Pſalm,</hi> and part of two Chapters in the <hi>Hebrews,</hi> and afterwards asked the Sheriffs if he might have liberty to Pray; which being gramed, be Prayed as follows.</stage>
+                  <p>BLeſſed and holy Lord our God, thou art before all Men thou art the only true God, the Almighty God, the Fountain of all Goodneſs. Thou art the Diſcerner of all hearts, the ſecret thoughts of men are not unknown to thee. Oh Lord, what am I that thou ſhouldſt be mindful of me, or that thou ſhouldſt ſuffer me now to call upon thee, when thou mighteſt have taken me away in the Commiſſion of ſome ſin againſt thee? But thou haſt been a merciful God, a long-ſuffering God, a patient God. O Lord, I truſt it is for my Souls Welfare in bringing me to this, though it is an untimely end, for thou cutteſt off my days in the midſt, but Lord, I truſt it is for my Souls ſake. Our times are in thy hands, and it is my Sins that have brought me to this. Oh give me a true ſenſe or them, as I truſt thou haſt done, and that thou haſt heard my Prayers, and wilt be my God, my Comforter, and receive me in and through the Merits of Jeſus Chriſt our Lord, who offered him<g ref="char:EOLhyphen"/>ſelf a Sacriſive for our Sins, even for the Sins of the whole World, and now ſ<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> at thy right hand interceeding for us. Lord, hear me, in and through him. Lay not any of my Sins to my charge; let not the leaſt Sin be unpardoned. The leaſt Sin deſerveth Dam<g ref="char:EOLhyphen"/>nation; Lord, I truſt thou haſt pardoned them all, and that thou haſt heard my Prayers, and the Prayers of others for me. Lord, in mercy look down upon me; in mercy look down upon this Nation; pardon the crying Sins thereof. Lord, thou ſeeſt to what a height of Sin it grows, and thou ſeeſt what Wickedneſs is promoted in all Places, and what little encouragement there is to that which is good Lord, bleſs the King, and keep him from all Conſpiracies. Lord, give him a ſenſe of his Condition, and make him know his Enemies from his Friends. O Lord, let him look cloſe about him, to ſee who are about him; and Lord put an end to all Plottings. O Lord, make him a happy Prince, give him a ſenſe of his Sins, and a ſenſe of whoſe Servant he is, Lord, make him thy true and faithful Ser<g ref="char:EOLhyphen"/>vant. Lord, bleſs all thy People whereſoever they are, and continue thy Goſpel every where, let it not be rooted out. O Lord, thou knoweſt what Contrivances have been made againſt it. Lord con<g ref="char:EOLhyphen"/>tinue it here; let it Flouriſh more than ever it hath done. Lord, make <hi>England</hi> a Place thou wilt delight to dwell in, and make them know than haſt not dealt ſo with overy Nation. Lord, hear the Prayers of all thy People. Lord, continue the Goſpel in <hi>England,</hi> Let not Popery, let not Arbitrary Government come in. O Lord, there are good Laws in <hi>England,</hi> Lord, let them be put in Excecu<g ref="char:EOLhyphen"/>tion. Lord, hear me for thy Mercies ſake. I am now <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ing unto thee. Lord, I have but a minute or two to be here, let thy Spirit receive me, to thee I commit my Spirit. Lord, hear me, and anſwer me for thy Sons ſake, who is at thy right hand inter<g ref="char:EOLhyphen"/>ceeding for me, to whom with thee and thy Eternal Spirit be al Honour, and Glory, and Praiſe, both now and evermore.</p>
+               </sp>
+               <stage>(Then being asked who was in Council at the delivery of the Letter, he anſwered,)</stage>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>There was the Duke of <hi>York,</hi> and the Lord Keeper; I did not deliver it: It was intercepted in a Letter or given i<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. I did not know how it was, for I have been kept ſo, that I had not the Liberty to ſee any Friend, till yeſterday in the afternoon I had the Liberty of 2 or 3 hours with my Wiſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>You had your Wife with you before, and your Siſter and ſome other Friends.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>But that was never without a Keeper Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Cap. <hi>Richardſon.</hi>
+                  </speaker>
+                  <p>You are in the right.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>They do not uſe to allow men under you Circumſtances ſuch a Liberty as you talk of.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>I Pray God that no other people may concern themſelves with publick Affairs out of their own way, and that the Scriblers might be put down, for they do more hurt to the Kingdom than any thing elſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Have you any thing more to ſay.</p>
+               </sp>
+               <sp>
+                  <speaker>Holloway.</speaker>
+                  <p>No, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Sh. Daniel.</hi>
+                  </speaker>
+                  <p>Then God have Mercy upon your Soul.</p>
+               </sp>
+            </div>
+            <div type="document">
+               <head>The PAPER delivered to the Sheriffs.</head>
+               <opener>
+                  <date>APRIL 26. 1684.</date>
+               </opener>
+               <p>TO ſtop the Mouths, <hi>&amp;c.</hi> of all Pamphleteers, and News-Scriblers, who have done more Preju<g ref="char:EOLhyphen"/>dice to his Majeſty and Kingdoms, by their Impu<g ref="char:EOLhyphen"/>dent endeavours to Sham all Plots, and to fill the Country with Falſe News, than they will ever be able to Retrieve; and to ſatisfie all I leave behind me, I thought good to draw up a ſhort Account of what I knew of the Late <hi>Proteſtant Plot,</hi> how I came to be Concerned, what Induced me to it, and how far I was Concerned; alſo my now Opinion of it, <hi>&amp;c.</hi>
+               </p>
+               <p>It was my Unhappineſs to have too Publick a Spi<g ref="char:EOLhyphen"/>rit for one of my Capacity, and as ſoon as I came to be a Free-man to prefer the Kings and Kingdoms In<g ref="char:EOLhyphen"/>tereſt before my own, for having ſome knowledg in Linnen Cloath, upon the Prohibition of <hi>French</hi> Lin<g ref="char:EOLhyphen"/>nens, <hi>&amp;c.</hi> I thought the Linnen Manufacture might be brought to Perfection in <hi>England,</hi> to the very great advantage of the Poor, and ſo made ſome tryal of it in <hi>Warwickſhire,</hi> where I employed ſome Hundreds of Poor, and in about Eighteen Months time brought it to ſuch Perfection that I could make as good Cloath as the <hi>French,</hi> and ſo well Imitate it, that few could know it from <hi>French;</hi> but the Prohibition being not ſo ſtrict as at firſt ſeemed to be, <hi>French</hi> Cloath was brought in Cheaper than ever, ſo that I was forced to leave off with loſs; but conſidering, that by an Act of Parliament for its encouragement, in a method I had thought upon, it might be ſetled much to the Kings and Kingdoms Intereſt, advancing the Kings Revenue near two hundred thouſand Pounds a Year, and would have employed about 80 Thouſand Poor people, and about 40 Thouſand Acres of Land, con<g ref="char:EOLhyphen"/>cerning which I was (about <hi>June,</hi> 1680.) brought ac<g ref="char:EOLhyphen"/>quainted with the Earl of <hi>Eſſex,</hi> to whom I related the buſineſs; who immediately had me to the (now) Earl of <hi>Rocheſter,</hi> then Preſident of the Treaſury, and he had me to Sir <hi>Edward Deering,</hi> who (when they underſtood my Propoſals) gave me ſomething to bear my Charges, and encouraged me to attend the next Parliament, to endeavour the Promotion thereof;
+<pb n="15" facs="tcp:49127:8"/>which I did almoſt the whole Seſſion, and brought to the Speakers Chamber ſome of the Cloath which was compared with <hi>French, &amp;c.</hi> and the Deſign well approved of by all; which brought me into too large Acquaintance, for one of my Capacity; from whom I heard too much (as hath proved, for my Intereſt) of things that were then in hand concerning the <hi>Popiſh Plot,</hi> which prevented the doing any thing as to my Deſign. So after that I was encouraged to attend the <hi>Oxford</hi> Parliament, which I did; and was deſired there by the Earl of <hi>Clarendon,</hi> and others, to prepare a Bill; the Heads of which I drew up, though it proved to no purpoſe but my Ruin. I wiſh my King and Country might reap the Beneſit of what I pay ſo dear for. The more I knew during my Attendance on thoſe two Parlia<g ref="char:EOLhyphen"/>ments, the more was deſirous to know; and did by ſome Scriblers and News-mongers conſtantly know moſt Publick Aſſairs that were Acted, which they undertake to repreſent according to their own homour; many Actions being repreſented very Illegal, much againſt the Proteſtant Intereſt, in fa<g ref="char:EOLhyphen"/>vour of Papiſts, <hi>&amp;c.</hi> Shamming the <hi>Popiſh Plot,</hi> and laying Sham-Plots upon Proteſtants; abuſing the Rights and Priviledges of the Subject, the Truth of which I leave to the Judgment of all; but hearing many ſuch like things, was eaſily prevailed with to be Concerned in the PLOT, according as it was propoſed to me, <hi>viz.</hi>
+               </p>
+               <p>About <hi>July,</hi> 1682. I met with a Perſon, who then being come from <hi>London,</hi> gave me a Relation at large concerning the Election of Sheriffs that had been in <hi>June,</hi> the manner of which is well known to all; he repreſented it to me as a very Illegal Action, and that there was a Deviliſh De<g ref="char:EOLhyphen"/>ſign of the Papiſts in it, to Cut off the Kings Friends, the Stirring men in both the laſt Parliaments, as to the Proſecution of the <hi>Popiſh Plot,</hi> who I always took to be both the Kings and the Nations Friends. That there was Witneſſes had been ready a long time to Swear againſt them, but they could not get Jurors to believe them, but now they had by force of Arms, <hi>&amp;c.</hi> got Sheriffs who would find Juries to believe them, and ſo Hang them up at their Pleaſure; that there was none but bad Coun<g ref="char:EOLhyphen"/>ſel about the King, who kept all Ill Actions from his knowledge; and if they proceeded to Swear <hi>North</hi> and <hi>Rich</hi> at <hi>Michaelmas,</hi> and to chuſe Lord Mayor, as they had done Sheriffs, the Proteſtant Gentry were reſolved (naming ſome) to remedy what was Deſigned, by an Inſurrection in ſeveral parts of <hi>England;</hi> and if poſſible to get the King off from his Evil Counſel, and bring all Popiſh Offenders to Juſtice, ſaying, That they were ſure that when the King knew the Occaſion of their Ri<g ref="char:EOLhyphen"/>ſing, he would preſently give up all Offenders, and come in to them. That it ſhould begin in <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> in <hi>London, Briſtol, Exeter, Taunton, Cheſter, York, New-Caſtle;</hi> and that we ſhould hear more of it in a Months time, therefore deſired we might Con<g ref="char:EOLhyphen"/>ſider how it might be managed in <hi>Briſtol,</hi> which we did; and concluded that <hi>Briſtol</hi> with about 350 men might be eaſily ſecured by a Surpriſe, with<g ref="char:EOLhyphen"/>out the Blood-ſhed of one man. About a Month after that, came the Perſon he mentioned we ſhould hear more by; but he could declare no more then the former did, only that the Deſign went on, and there would be timely Notice given to all parts; but we heard of nothing but Diſap<g ref="char:EOLhyphen"/>pointments and Delays, putting it off from time to time. In <hi>April</hi> I heard of another Deſign againſt the King, and Duke of <hi>York,</hi> as they were to come from <hi>Newmarket,</hi> ſome time in <hi>March;</hi> but when I enquired into that, found it was Carried on by Three, or Four; and never could hear the Names of above Five that were for it. When I heard it, I de<g ref="char:EOLhyphen"/>clared my Abhorrence of any ſuch thing, and that I was Conſident none in our Parts would be for ſuch a baſe Action. After that enquired farther into it, and could find that although it was intended to be done Six Weeks before, that they had only a Parcel of Arms ready; and that they had neither Men, nor Horſes; but one ſaid if they could have raiſed 6 or 800 <hi>li.</hi> to have bought Horſes, and alſo ſomething to encourage men, they ſhould have found men enough; ſo that I looked upon that only to be the Deſign of Five or Six Perſons, and no way likely to be Acted; but the General Deſign for the Inſurrection was Carried on by others; who, though they had made a great Stir in the Nation, trying the Inclinations of People, and had Treated with the <hi>Scots</hi> and <hi>Iriſh,</hi> as I heard, who were to be ready at the ſame time, yet were never come to any Reſolution, as to any Time, or Me<g ref="char:EOLhyphen"/>thod, before all was Diſcovered; though they had been Eleven Months Contriving of it, from the time I firſt heard of it. This I hope will be enough to ſatisfie all People that there was a PLOT; I men<g ref="char:EOLhyphen"/>tion no Names here, having given his Majeſty a more large Account of what I knew of it, men<g ref="char:EOLhyphen"/>tioning the Names of all that I knew Concerned. The Arguments before mentioned, with many o<g ref="char:EOLhyphen"/>thers to the ſame Effect, not only ſoon prevailed with me, but made me indeed think it my Duty to do what I could for my King and Countries Safe<g ref="char:EOLhyphen"/>ty; being then fully perſwaded, that not only Po<g ref="char:EOLhyphen"/>pery, but Arbitrary Government was Intended; not then Conſidering (as I have ſince Conſidered) Low much Bloodſhed it might have cauſed in the Nation; for then I thought all would have been ended in little time, ſuppoſing things to be as to me was Reported. But I do now declare my Hearty Sorrow for my Yielding thereto, and Acting there<g ref="char:EOLhyphen"/>in; (though I can ſafely ſay I was not for taking the Kings Life, but wholly for his Preſervation) yet am Satisfied that it might have cauſed very much Bloodſhed in the Nation, and am glad it did not take effect. Alſo I declare that I am Satisfied it was a very great Sin againſt God, not only in di<g ref="char:EOLhyphen"/>ſtruſting his Providence, but in offering to take the Work out of his Hand; who knows the Hearts, Thoughts, and Actions of All, though never ſo Se<g ref="char:EOLhyphen"/>cret; whoſe Mercy and Pardon I moſt humbly beg, and truſt ſhall have; and in Confidence thereof, (through the Merits of the Blood of our Lord and Saviour Chriſt Jeſus) can willingly Die. Nothing
+<pb n="16" facs="tcp:49127:9"/>(next to This, and all other my Sins) is more trouble to me than the thoughts how (Dying) I ſhall leave all my Relations and Friends in trouble corcerning my Worldly Affairs; being by reaſon of this un<g ref="char:EOLhyphen"/>happy Concern, not in ſuch a Poſture they ſhould be, ſo that by my Death, my Deareſt Friends will not only be left in great Trouble, but lye under the Cenſure of many, none underſtanding how things are; my Wiſe and Children Ruined, and my Creditors great Loſers, whereas might I have been thought worthy to live, I ſhould have taken the trouble off them all, and hope in time to have paid every man to a Penny, for I can from my Heart ſay that as I hope for Salvation I never deſigned any Fraud to any man, but to pay every man his due, I have heard that ſome ſhould ſay I took up money at Intereſt to, carry on the Plot, which I diſown, for I never was at any Charge therein more than common expenſes, nor never heard of any Money raiſed upon that Account, though I heard of ten thouſand Pounds that was to be raiſed for the <hi>Scots,</hi> but ſuppoſe it was not done. I bleſs God I am pretty well ſatisfied, and hope ſhall be fully as to my future State, and can willingly leave the World; but upon the Account of my Friends and Creditors, Conſidering the Condi<g ref="char:EOLhyphen"/>tion they will be left in, could gladly have lived ſome time, that I might have taken off that Scandal that I fear will be laid upon me when I am gone, but God knows my Heart I am free, and always was from any thoughts of Frand or Deceit.</p>
+               <p>I am ſatisfied that all means that could <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thought on hath been uſed to get as much out of me as poſ<g ref="char:EOLhyphen"/>ſible, but had it not been my Reſolution to declare all that I knew concerning the Plot, and alſo to do what in me lay to prevent all Plottings for the future, that there might be an end put to ſuch Heats, Diffe<g ref="char:EOLhyphen"/>rences and Heart-burnings, that is, one againſt ano<g ref="char:EOLhyphen"/>ther; That his Majeſty and his Subjects might live in ſuch Love and Union, as ought to be between a Prince and his People, I had not Wrote what I did; for I was never a man to be wrought upon by ſeverity, and what I Wrote was not without due Conſideration, be<g ref="char:EOLhyphen"/>ing nothing but Truth. I do ſuppoſe that making ſuch a full and large Confeſſion at firſt, and ſome expreſ<g ref="char:EOLhyphen"/>ſions that might be obſerved in my Letters which I perceive were intercepted, may cauſe ſome thoughts that I ſtill reſerve ſome Perſons undiſcovered; but as to my Confeſſion it was not raſhly done, I had had ſome Weeks at Sea to call things to mind; and as for Perſons I gave a true account, and of all paſ<g ref="char:EOLhyphen"/>ſages I could remember, though others do and may come into mind. What I ſuppoſe was obſerved in my Letters might be ſome Feoliſh expreſſions con<g ref="char:EOLhyphen"/>cerning ſome of any Acquaintance, and that I would betray no Friend, meaning that no ſoverity ſhould cauſe me to accuſe any Friends falſely to ſave my ſelf, although (if I had thought the accuſing of a num<g ref="char:EOLhyphen"/>ber of Perſon would have ſaved my life, and had been one that would do any ſuch thing to ſave life) I had the moſt cauſe of any man; for when I firſt ab<g ref="char:EOLhyphen"/>ſconded, thoſe in <hi>Briſtol,</hi> and elſewhere, that were my moſt intimate Acquaintance refuſed to do any thing for me; nay, would not receive. Letters when I Wrote to them, fearing they ſhould be fourd to hold Correſpondence with me. When I gave in my Con<g ref="char:EOLhyphen"/>feſſion I ſtood not upon terms of a Pardon, being Confident if Truth would merit Mercy from the King, I ſhould have his Pardon, and that it was the only way to gain mercy with God. I find already that people are paſſing their Cenſures upon me, ſome one way, and ſome another, for my not Pleading and accepting of another Tryal when it was offered, ſay<g ref="char:EOLhyphen"/>ing, that I confeſſed the whole Indictment, which I diſ<g ref="char:EOLhyphen"/>own; for I ſaid thus, What I was Guilty of I had Confeſſed to his Majeſty, and wholly depended upon his Mercy; beſides, I had ſome ether reaſors why I did not Plead, which at preſent I conceal, and alſo why I did not ſpeak what I intended. More I may ſay at the place of Execution before I leave the World, which will be according as I find things; but as to a Diſcovery of any more Perſons (I cannot) than hath been already mentioned. Should I mention any whom I thought would have been Concerned, I may much abuſe them, though I believe many thouſands in the Nation would have appeared, for the reaſons afore-mentioned, which cauſed me to be Concerned. I doubt not but ſeveral that were Concerned, who are or may be Cleared for want of ſufficient preof againſt them, or by his Majeſtics Mercy, will blame me for Confeſſing what I knew, and not much grieve that I ſailed of a Pardon, or at my Death. But I repent not my Confeſſion, and could I Diſcover more would do it willingly though I find not Mercy with man.</p>
+               <closer>
+                  <signed>James Holloway.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>We Appoint <hi>Robert Horn, John Baker,</hi> and <hi>John Redmayne,</hi> to Print theſe Papers, and that none other Print the ſame.</p>
+            <closer>
+               <signed>Peter Daniel. Samuel Daſhwood.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Robert Horn, John Baker, <hi>and</hi> John Redmayne. <hi>1684.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
